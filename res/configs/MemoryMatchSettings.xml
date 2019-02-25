@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<game width="1440" height="768">
+	<title>Memory Match</title>
+	<desc>Find all the pairs as fast as possible! Choose your difficulty and have fun!</desc>
+	<credits>MAIN PROGRAMMER&#xA;	DOMINIC DOUCET&#xA;&#xA;CONTRIBUTOR&#xA;	ZACHARIE BOUDREAU&#xA;	MARIO MAILLET&#xA;&#xA;TESTERS&#xA;	SAMUEL BRIDEAU&#xA;	DOMINIC DOUCET
+	</credits>
+	<path>MemoryMatch</path>
+	<bin>MemoryMatch.out</bin>
+</game>
